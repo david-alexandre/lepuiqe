@@ -2,7 +2,7 @@
 <html class=" js canvas canvastext geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets video audio localstorage sessionstorage webworkers applicationcache" tpl="news-longue_v2" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://developers.facebook.com/schema/" lang="fr">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-            <title> Coupe inter-entreprises - Les Geeks infligent une défaite historique à Merci Alfred (7-1) !</title>
+            <title>Un match pas comme les autres</title>
             <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
             <link href="http://www.lequipe.fr/v6/css/style_v65.css" rel="stylesheet" type="text/css" />
             <!--[if IE]><link rel="stylesheet" type="text/css" href="/v6/css/ie.css?20140707-AAAAAA" /><![endif]-->

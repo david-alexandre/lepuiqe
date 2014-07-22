@@ -1,0 +1,738 @@
+@font-face{font-family:'CabinSemiBoldItalic';
+    src:url('/v6/fonts/interstate-font.eot');
+    src:url('/v6/fonts/interstate-font.eot?#iefix') format('embedded-opentype'),
+         url('/v6/fonts/interstate-font.woff') format('woff'),
+         url('/v6/fonts/interstate-font.ttf') format('truetype'),
+         url('/v6/fonts/interstate-font.svg#interstateregular') format('svg');
+    font-weight:normal;
+    font-style:normal}
+	
+	
+.bandeau_sotchi a img { margin-top:20px}
+	
+.ob_org_header{font-size:21px!important;line-height:24px!important;text-transform:uppercase!important;padding-left:20px;letter-spacing:-1px;padding-bottom:12px}
+
+.news .bandeau_breve {display:block; margin-bottom: 10px;margin-top: -3px;}
+
+
+#col-gauche .news .bigleaderpix img{ width:640px; height:322px}
+#col-gauche .news .col-665 .bigleaderpix img{ width:auto; height:auto}
+
+#col-droite{padding-top:20px}
+.tag_MEDIAS img.IEPL,.tag_JEUX_VIDEO img.JVDO{margin-bottom:10px;margin-top:-3px}
+#JV_bloc{width:640px;padding:30px 0 20px 0;border-top:1px solid #000;position:relative;margin-top:40px}
+#JV_bloc>a{width:151px;float:left;margin-right:12px;font-family:'museo_sans900'!important;font-weight:normal;position:relative}
+#JV_bloc>a:last-child{margin-right:0}
+#JV_bloc>a:hover{color:#2A323D}
+#JV_bloc img{width:151px;padding-bottom:8px}
+#JV_bloc>span{background:#fff;position: absolute;top: -16px;left: 10px;padding: 5px;display: inline;font-family: 'interstateregular';font-size: 20px;color: #000;border: 1px solid #ccc;text-transform: uppercase;font-weight: 100}
+.tag_JEUX_VIDEO #commentaires{border:none;padding-top:0}
+.tag_JEUX_VIDEO #commentaires ul#coms{padding-top:34px}
+#JV_bloc a>span{.push-site-connexe .item span ;position: absolute;top: 74px;right: 10px;height: 25px;width: 25px;display: block;background: transparent;cursor: pointer;background:url(/v6/img/sprite_v65.png) -13px -461px}
+#JV_bloc a>span:hover{background:url(/v6/img/sprite_v65.png) -39px -461px}
+
+.tag_JEUX_VIDEO #chrono .header{background:#002742}
+.tag_JEUX_VIDEO li.active{background:none!important}
+.tag_JEUX_VIDEO li.active a{color:#000!important}
+.tag_JEUX_VIDEO li.active a:hover{color:#fff!important}
+.tag_JEUX_VIDEO.article._v65 #article h1 span:first-child{background:#002742!important}
+
+.video.ESVA span{display:none}
+
+.listJV .diapo li{width:638px;overflow:hidden;float:left;background:#333;text-align:center;border:1px solid #333}
+.listJV .diapo li{}
+.listJV .diapo li div,.listJV .diapo li div img {padding-bottom:8px}
+.listJV .diapo li span{color:#fff}
+.listJV .diapo li span.type{padding:8px}
+.listJV .diapo li span.title{padding:8px 0}
+.listJV>a{border-radius:4px;padding:10px 14px;background:#000}
+.listJV>a span{width:24px;height:36px;display:block;opacity:0.8;background:url(http://www.lequipe.fr/v6/img/sprite_v65.png)}
+.listJV{position:relative}
+.listJV>a  {position:absolute;top:200px;}
+.listJV>a.liprev{left:12px}
+.listJV>a.liprev  span{background-position:-264px -51px}
+.listJV>a.liprev:hover  span{;background-position:-234px -50px}
+.listJV>a.liprev.disabled  span{left:12px;background-position:-203px -50px}
+.listJV>a.linext{right:12px}
+.listJV>a.linext  span{background-position:-205px -93px}
+.listJV>a.linext:hover  span{background-position:-235px -93px}
+.listJV>a.linext.disabled  span{background-position:-266px -93px}
+.listJV>a:hover{opacity:1}
+.listJV>a.disabled{opacity:0.7}
+
+.NewBettingEdito{margin-top:20px;width:640px;overflow:hidden}
+.block.pb_7186{width:640px;overflow:hidden}
+
+.partage_bis.NewEditoBetting>div.clear.c20{height:10px!important}
+.envoyerArticle #lightbox-image{display:none!important}
+#lightbox-container-image-data-box  .content{text-align:left;padding:20px}
+.envoyerArticle input{color:#C00;background-color:#F0F0F0;font-size:10px;font-family:arial;border:1px solid #EBEBEB;margin-bottom:4px}
+.envoyerArticle .inputTxt{width:272px}
+.envoyerArticle textarea{width:272px;height:60px;color:#C00;background-color:#F4F4F4;font-size:10px;font-family:arial;border:1px solid #EBEBEB;resize:none}
+.envoyerArticle .chekContainer{clear:both;overflow:hidden}
+.envoyerArticle .chekContainer .chek{float:left}
+.envoyerArticle .chekContainer .chekLabel{width:238px;padding-left:10px;text-align:justify;float:left}
+.envoyerArticle #titre{padding-top:20px}
+.col-190 #ensavoirplus{border-bottom:2px solid #B3B3B3}
+.col-190 #ensavoirplus h4{color:#666;font-family:'interstateregular';font-size:20px} 
+.col-190 #ensavoirplus h4 span{color:#D60000;font-family:Arial;font-weight:bold}
+.col-190 #ensavoirplus .ensavoir .header{background:none repeat scroll 0 0 #DDD;height:20px;border-top:1px solid #333}
+.col-190 #ensavoirplus .ensavoir .header h3{background:none repeat scroll 0 0 #FAFAFA;color:#333;display:inline-block;font-family:'museo_sans900';font-weight:normal;margin:5px 0 0 10px;padding:5px 5px 0;text-transform:uppercase;font-size:12px}
+#ensavoirplus .ensavoir.services{border-top:0!important;border-bottom:2px solid #DDD}
+.col-190 #ensavoirplus .ensavoir hr{height:1px;border:1px solid #DDD;border-top:0;margin:10px 0;clear:both}
+.col-190 #ensavoirplus .ensavoir .content{background-color:#fff;border-left:1px solid #DDD;border-right:1px solid #DDD;padding:15px 10px 10px}
+.article .sondage{width:360px;margin:5px auto;position:relative;padding:0 10px 30px 10px;border:1px solid #DDD;background-color:#FAFAFA }
+#partage .gplus{width:72px}
+#partage a.comment{width:48px}
+.article .sondage .sous-titre{float:left;width:100%;/*border-bottom:2px solid #DDD;*/ font-family:'museo_sans900';font-weight:normal;font-size:20px;text-transform:none!important;padding-bottom:5px;border-bottom:1px solid #DDD;clear:right}
+.article .sondage .rep{float:left;width:93%;padding:5px 0 5px 7%;border-bottom:1px dotted #F0F0F0;position:relative;font-weight:700}
+.article .sondage .rep input{position:absolute;top:4px ;left:3px}
+.article .sondage .rep .libel{float:left;width:200px}
+.article .sondage .rep .barre{float:left;width:0}
+.article .sondage .rep .pc{float:right;width:30px;font-weight:700}
+.article .sondage .total{position:absolute;bottom:0;left:0;background:#DDD;padding:2px 0;margin:0;width:100%;font-size:11px;color:#333;text-shadow:1px 1px 2px #AAA;font-weight:700}
+#article{background:#FFF}
+.news .bigleaderpix{width:640px;overflow:hidden}
+.bigleaderpix.small.enkad{width:auto;margin-top:5px;margin-right:10px!important}
+.fullwidth .news .bigleaderpix{width:70%;overflow:visible}
+
+#col-gauche .paragr .flash_kplayer,#col-gauche .paragr .flash_kplayer object{width:640px!important}
+
+
+#article .bloc_quoti,.article.court .bloc_quoti{position:relative;float:left;border:none;width:100%;margin-top:10px;background:url(/v6/img/sprite_v65.png) no-repeat 290px -1425px}
+#article .bloc_quoti img.une,.article.court .bloc_quoti img.une{position:absolute;display:none;top:8px ;left:10px;border:1px solid #DDD}
+#article .bloc_quoti .imag,.article.court .bloc_quoti .imag{display:none;float:left;margin:10px 20px 10px;width:43px;height:50px}
+#article .bloc_quoti .txt,.article.court .bloc_quoti .txt{float:left;text-align:left;margin-left:10px}
+#article .bloc_quoti .txt p,.article.court .bloc_quoti .txt p{font-family:'museo_sans900' ;font-weight:normal;font-size:17px}
+#article .bloc_quoti .txt img,.article.court .bloc_quoti .txt img{margin-bottom:7px ;margin-left:2px;margin-right:-6px}
+#article .bloc_quoti p,.article.court .bloc_quoti p{margin-top:0px;margin-bottom:6px }
+#article .bloc_quoti .buttn,.article.court .bloc_quoti .buttn{background:url(/v6/img/sprite_v65.png) no-repeat scroll -196px -1311px transparent; display:block;font-family:'museo_sans900';font-weight:normal;font-size:18px; height:37px; right:0; line-height:34px; padding-left:40px; position:absolute;bottom:4px;width:118px;text-align:left}
+.bigleaderpix .statut_groupe{right:45px;padding:6px 8px 3px 8px!important}
+.date span.statut_groupe{padding-bottom:1px!important;vertical-align:middle}
+.article #wrapper>.clear{background:#fff}	
+.infos_expert div{margin-top:4px}
+.bigleaderpix.small .caption{width:auto!important}
+.article .col-665 .bigleaderpix.small.noenkad{float:none!important;margin:20px auto!important;width:460px}
+.article .col-665 .bigleaderpix.small.enkad{}
+.article .col-665 .bigleaderpix.small.enkad img{}
+#ensavoirplus .ensavoir.infos .content a.club,#ensavoirplus .ensavoir.infos .content .club{color:#000;display:block;float:left;width:100%;margin-bottom:7px;border-bottom:1px solid #DDD}
+#ensavoirplus .ensavoir.infos .content a.club:hover,#ensavoirplus .ensavoir.infos .content .club a:hover{color:#d60000!important}
+#ensavoirplus .ensavoir.infos .content a.club img,#ensavoirplus .ensavoir.infos .content .club img{float:left;clear:left}{float:left;clear:left}
+#ensavoirplus .ensavoir.infos .content a.club strong,#ensavoirplus .ensavoir.infos .content .club strong{float:left;margin:8px 0 0px 11px;width:125px}
+
+.col-460 object,.col-665 object{float:left!important;margin:8px auto 12px auto!important}
+.bigleadervid object{float:left!important;margin:8px auto 0 auto!important}
+.paragr a{text-decoration:underline}
+.paragr iframe{display:block;margin:0 auto}
+
+#liens_connex a ,.bloctype1 a{text-decoration:none!important}
+
+#ensavoirplus .ensavoir.infos .content a.club span{font-weight:700;margin-left:10px;text-decoration:underline}
+#ensavoirplus .ensavoir.infos .content .tagz{padding:0 0 8px 0;float:left}
+
+#ensavoirplus .ensavoir.infos .content a.tag{color:#000;font-size:12px;font-weight:700;line-height:14px;background-color:#FFF;padding:2px 7px;margin-bottom:1px;float:left;text-decoration:none;border:1px solid #F0F0F0}
+
+#ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#CCC;border-color:#BBB}
+.Football #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#84ad09;border-color:#6b8f00}
+.Rugby #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#007113;border-color:#004f0d}
+.Tennis #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#F0851D;border-color:#ca6400}
+.Auto-Moto #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#597894;border-color:#3e5b75}
+.Formule1 #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#597894;border-color:#3e5b75}
+.Basket #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#183DAC;border-color:#002183}
+.Handball #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#183DAC;border-color:#002183}
+.Golf #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#711F3D;border-color:#4d0821}
+.Cyclisme #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#D9B92A;border-color:#b79912}
+.Athletisme #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#03ACAC;border-color:#008c8c}
+.Voile #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#03ACAC;border-color:#008c8c}
+.Natation #ensavoirplus .ensavoir.infos .content a.tag:hover{color:#FFF;background-color:#03ACAC;border-color:#008c8c}
+
+
+
+#ensavoirplus .ensavoir .coldr_calendrier{float:left;height:auto;overflow:hidden;width:100%}
+#ensavoirplus .ensavoir .coldr_calendrier ul{padding:0;margin:0}
+#ensavoirplus .ensavoir .coldr_calendrier li{color:#000;font-size:11px;float:left}
+
+#ensavoirplus .ensavoir .coldr_calendrier li a{cursor:pointer;color:#000;font-size:11px;font-weight:700;width:300px;float:left;padding:3px 0;margin:1px 0 0 0;border-bottom:1px dotted #EEE}
+#ensavoirplus .ensavoir .coldr_calendrier li a.lastone{margin-bottom:10px}
+#ensavoirplus .ensavoir .coldr_calendrier li a span{font-weight:400}
+#ensavoirplus .ensavoir .coldr_calendrier a.lienscal{color:#000;display:block;margin-bottom:5px}
+
+#ensavoirplus .ensavoir .coldr_calendrier li:last-child{margin-bottom:10px}
+#ensavoirplus .ensavoir .coldr_calendrier li:last-child a{border-bottom:0}
+#ensavoirplus .ensavoir.infos .infos_base a:last-child,#ensavoirplus .ensavoir.infos .infos_base div:last-child{border-bottom:0}
+
+#ensavoirplus .ensavoir.alertes .header{border-top-color:#D60000}
+#ensavoirplus .ensavoir .abo_alertes{float:left;width:100%}
+#ensavoirplus .ensavoir.alertes .content a,a.alertes_col_droite{
+		color:#FFF;
+		display:block;
+		font-size:11px;
+		font-weight:700;
+		margin:0 auto 10px auto;padding:5px;
+		text-align:center;
+		text-transform:uppercase;
+		width:120px;
+		border:1px solid #d60000;
+		background-color:#f00;
+		border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;
+		background-image:linear-gradient(bottom,#D60000 42%,#E60000 71%);
+		background-image:-o-linear-gradient(bottom,#D60000 42%,#E60000 71%);
+		background-image:-moz-linear-gradient(bottom,#D60000 42%,#E60000 71%);
+		background-image:-webkit-linear-gradient(bottom,#D60000 42%,#E60000 71%);
+		background-image:-ms-linear-gradient(bottom,#D60000 42%,#E60000 71%);
+		background-image:-webkit-gradient(linear,	left bottom,left top,color-stop(0.42,#D60000),	color-stop(0.71,#E60000));
+}
+#ensavoirplus .ensavoir.alertes .content a:hover,a.alertes_col_droite:hover{
+	background-color:#d60000;
+	background-image:linear-gradient(bottom,#E60000 11%,#D60000 83%);
+	background-image:-o-linear-gradient(bottom,#E60000 11%,#D60000 83%);
+	background-image:-moz-linear-gradient(bottom,#E60000 11%,#D60000 83%);
+	background-image:-webkit-linear-gradient(bottom,#E60000 11%,#D60000 83%);
+	background-image:-ms-linear-gradient(bottom,#E60000 11%,#D60000 83%);
+	background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0.11,#E60000),color-stop(0.83,#D60000));
+	color:#FFF!important
+}
+#ensavoirplus .ensavoir .liens_savoir_plus{float:left;width:100%;clear:both}
+#ensavoirplus .ensavoir a.lienscal{float:left;width:100%}
+#ensavoirplus .ensavoir a.lienscal  span{float:left;padding-left:8px;height:15px;background:url("http://static.lequipe.fr/v6/img/sprite.png?20130415") no-repeat scroll 0 0 transparent;margin-right:5px}
+.abo_alertes .info{display:none}
+
+#ensavoirplus .ensavoir.services table{color:#666;margin:10px 0;width:100%}
+div.news .autres-news{border-top:1px solid #CCC;clear:both;margin-top:0;width:100%;margin-top:8px}
+div.news .autres-news h3,div.news .autres-news ul li a{background:url(http://static.lequipe.fr/v6/img/sprite.png?20130415) no-repeat scroll -991px -488px transparent;color:#666;display:block;font-weight:700;height:10px;margin:5px 0;padding-left:15px}
+div.news .autres-news h3{background:none;padding-left:0;padding-top:8px;font-size:14px}
+
+.autres-news ul li.video a{background-position:-988px -511px!important}
+
+div.news .autres-news h3{color:#333;margin-bottom:10px;text-transform:uppercase}
+div.news .autres-news ul li{border-bottom:1px dotted #666;float:left;padding:3px 0;width:100%}
+.ensavoir.infos .club,.plus_joueurs{display:none}
+.plus_joueurs{color:#000;display:block;float:left;font-size:11px;padding:5px 0;border-bottom:1px solid #EEE}
+.plus_joueurs strong{font-size:12px;margin-bottom:5px;float:left;width:126px}
+.plus_joueurs strong b{text-transform:capitalize}
+
+.plus_joueurs img{border:2px solid #999;float:left;margin-right:7px}
+.plus_joueurs span{float:left;width:123px}
+
+.article.court #partage a.mail-envoyer,.partage_bis #partage a.mail-envoyer{background-position:-946px -109px;padding-right:0;width:22px}
+.col-460 p a{color:#333;text-decoration:underline;font-weight:bold}
+.col-460 p a:hover{color:#d60000}
+
+.ensavoir .services .libelleManif{height:35px;text-shadow:1px 1px 1px #FFFFFF }
+#new_bloc_bas_breve .bloctype1{position:relative}
+.encadre .bloctype1{font-size:12px ;font-weight:100}
+
+#new_bloc_bas_breve .bloctype1:first-child{margin-top:40px}
+
+#new_bloc_bas_breve .bloctype1 h3{position:absolute;top:-16px;left:10px;padding:5px;display:inline;font-family:'interstateregular';font-size:25px;color:#fff;background-color:#222;text-transform: uppercase;font-weight:100}
+#new_bloc_bas_breve .bloctype1 .wrap{width:640px;background-color:#f3f3f3;border-top:1px solid #666666}
+
+#new_bloc_bas_breve .bloctype1 .wrap .content{padding-top:20px}
+#new_bloc_bas_breve .bloctype1 .wrap .content img{display:block;float:left;margin-right:10px}
+#new_bloc_bas_breve .bloctype1 .vign{float:left;width:298px;padding:10px}
+#new_bloc_bas_breve .bloctype1 .vigncons img{margin:0 10px 10px 0 ;float:left}
+#new_bloc_bas_breve .bloctype1 .vigncons p{font-size:11px;padding:0 15px 0 5px;text-align:justify;line-height:17px}
+#new_bloc_bas_breve .bloctype1 .vigncons p  iframe{margin-top:5px}
+#new_bloc_bas_breve .bloctype1 .vigncons{width:100%}
+
+
+#new_bloc_bas_breve .bloctype1 .consizemin{width:376px}
+
+
+
+
+
+#new_bloc_bas_breve .bloctype1 .wrap .content .vign h4{margin-right:10px;font-family:'museo_sans900';font-weight:normal;font-size:14px;display:inline;line-height:20px;color:#000}
+#new_bloc_bas_breve .bloctype1 .wrap .content .vign span{float:left;margin-right:4px;margin-top:5px;width:11px;height:12px;background:url(/v6/img/sprite_v65.png) no-repeat scroll -287px -308px transparent}
+
+
+#new_bloc_bas_breve .bloctype1 .wrap .content .separator{float:left;height:76px;border-right:1px solid #fff}
+#new_bloc_bas_breve .bloctype1 .wrap .content .more{margin-left:10px;padding:10px 0;font-size:14px;font-weight:700;}
+#new_bloc_bas_breve .bloctype1 .wrap .content .more span{float:left;margin-right:6px;width:14px;height:15px;background:url(http://static.lequipe.fr/v6/img/sprite.png?20130415) no-repeat scroll -25px 0 transparent}
+#new_bloc_bas_breve #liens_connex .wrap{padding-bottom:15px}
+
+#new_bloc_bas_breve .bloctype1.associe .wrap{background:none}
+#new_bloc_bas_breve .bloctype1.associe .wrap .content img{display:block;float:left;width:155px;height:78px;margin:0}
+#new_bloc_bas_breve .bloctype1.associe .wrap .content .vign{float:left;padding-left:15px;width:155px}
+#new_bloc_bas_breve .bloctype1.associe .wrap .content .vign:first-child{padding-left:0}
+#new_bloc_bas_breve .bloctype1.associe .wrap .content .vign .contentvign{padding-left:0;padding-top:5px}
+#new_bloc_bas_breve .bloctype1.associe .wrap .content .vign h4{display:inline;margin:0;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:normal;line-height:16px;color:#000}
+#new_bloc_bas_breve .bloctype1.associe .wrap .content .vign span{background-position:0 0!important}
+
+
+
+
+
+#new_bloc_bas_breve #infos,#new_bloc_bas_breve #bloc_nconsultant{position:relative;width:100%;padding-top:20px;border-top:1px solid #000}
+
+#new_bloc_bas_breve #bloc_nconsultant .bloc,#new_bloc_bas_breve #infos .bloc,#new_bloc_bas_breve #infos .blocclub{float:left;width:178px;min-height:42px;padding-left:10px}
+#new_bloc_bas_breve #infos .blocsportif{width:165px}
+
+#new_bloc_bas_breve #infos .blocclub{text-align:left;padding-top:5px}
+#new_bloc_bas_breve #infos .bloc img,#new_bloc_bas_breve #bloc_nconsultant .bloc img{float:left;margin-right:10px;margin-bottom:15px}
+#new_bloc_bas_breve #infos .bloc a,#new_bloc_bas_breve #bloc_nconsultant .bloc a{line-height:14px}
+#new_bloc_bas_breve #infos .content-bloc{padding-bottom:10px}
+#new_bloc_bas_breve #infos .blocsportif .content-bloc,#new_bloc_bas_breve #infos .bloc.lien .content-bloc{padding:10px 0}
+
+
+#new_bloc_bas_breve #infos .blocsportif .content-bloc{display:inline-block;padding:5px 0!important;width:162px}
+
+#new_bloc_bas_breve #infos .blocsportif.wideout .content-bloc,#new_bloc_bas_breve #infos .blocclub.wideout .content-bloc{padding:5px 10px!important}
+
+#new_bloc_bas_breve #infos .marge,#new_bloc_bas_breve #bloc_nconsultant .marge{float:left;width:1px;background-color:#cccccc}
+#new_bloc_bas_breve #infos .lien{border:none}
+#new_bloc_bas_breve #bloc_nconsultant .content-bloc{padding-top:10px}
+#new_bloc_bas_breve #infos .bloc.lien ,#new_bloc_bas_breve #bloc_nconsultant  .bloc.lien{width:265px}
+
+#new_bloc_bas_breve #infos .lien a,#new_bloc_bas_breve #bloc_nconsultant .lien a{float:left;display:inline-block;width:100%}
+#new_bloc_bas_breve #infos .lien span,#new_bloc_bas_breve #bloc_nconsultant .lien span{float:left;margin-right:5px;width:11px;height:15px;background:url(/v6/img/sprite_v65.png) no-repeat scroll -287px -308px transparent}
+
+
+
+
+
+
+
+.new_bloc_bas_breve{float:left; margin-top:10px}
+.ensavoir.services{margin-bottom:15px}
+.ticketnet_event{position:relative;height:60px;background-color:#efefef;border-top:1px solid #cccccc;border-bottom:1px solid #cccccc;margin-top:10px}
+.ticketnet_event .separator{position:absolute;top:0;left:514px;width:1px;height:60px;background-color:#cccccc}
+.ticketnet_event .ticketnet_dateHoraire{position:absolute;top:10px;left:370px;line-height:13px}
+.ticketnet_event .ticketnet_prix{position:absolute;top:36px;left:370px;line-height:13px}
+.ticketnet_libelleManif{position:absolute;top:8px;left:130px;width:225px;padding:0}
+.ticketnet_libelleManif div{float:none;text-align:center;margin:0 auto;padding-top:9px;height:100%!important} 
+.ticketnet_event .ticketnet_match{width:219px}
+.evoyages_event,.ebar_event{position:relative;height:60px;background-color:#efefef;border-top:1px solid #cccccc;border-bottom:1px solid #cccccc;margin-top:10px;display:none}
+.evoyages_event .separator,.ebar_event .separator{position:absolute;top:0;left:514px;width:1px;height:60px;background-color:#cccccc}
+.evoyages_event .dateHoraire,.ebar_event .dateHoraire{position:absolute;top:10px;left:370px;line-height:13px}
+.evoyages_event .prix,.ebar_event .prix{position:absolute;top:36px;left:370px;line-height:13px}
+.ticketnet_event .logoeq1{position :absolute;top:3px;left:0px}
+.ticketnet_event .logoeq2{position :absolute;top:3px;right:0px}
+.ticketnet_event .logoeq1 img,.ticketnet_event .logoeq2 img{opacity :0.5;-moz-opacity:0.5;filter:alpha(opacity=50)}
+.ensavoir.services .liens,.ticketnet_liens{position:absolute;top:12px;right:5px;width:115px!important;height:27px;text-align:center;padding:9px 0 0 0;background:url(/v6/img/sprite_v65.png) -197px -1348px no-repeat;font-family:'museo_sans900';font-weight:normal;font-size:14px;color:#696969}
+.ensavoir.services .libelleManif{position:absolute;top:22px;left:130px;width:225px;padding:0;height:35px;text-shadow:1px 1px 1px #fff}
+.ebar_event .libelleManif{width:380px}
+.logo_ebillet,.logo_evoyage,.logo_ebar{position:absolute;top:19px;left:22px}
+
+
+
+
+
+
+
+
+
+
+.col-665 .zoneload #Placar.no-commented .event{width:640px!important}
+.col-665 .zoneload #Placar.no-commented{width:640px!important}
+.col-665 .zoneload #Placar .PlInfo .score{top :2px }
+.col-665 .zoneload #Placar .PlInfo .PlEq .equipe,.col-665 .zoneload #Placar .PlInfo .PlEq .logo{top:-4px}
+.col-665 .zoneload #Placar .statut{left:122px!important}
+.col-665 .zoneload #Placar .PlInfo  .equipe{width:222px!important;font-size :25px!important}
+.col-665 .zoneload #Placar .logo img{width:100px!important}
+.col-665 .zoneload #Placar .PlInfo .PlEq .buteurs{top:68px!important}
+.col-665 #friend-fb .pict_frie,.col-665 #friend-fb b{display:none;opacity:0}
+.col-665  .bloctype1#article-open-graph .wrap{height:90px}
+
+.Football .col-665  .zoneload #Placar .PlInfo .score{font-size:48px!important;height:48px!important;width:37px!important}
+
+span.logo_ebar{background:url(/v6/img/sprite_v65.png) -275px -973px;width:60px;height:18px}
+span.logo_evoyage{background:url(/v6/img/sprite_v65.png) -275px -926px;width:100px;height:24px}
+span.logo_ebillet{background:url(/v6/img/sprite_v65.png) -275px -953px;width:80px;height:18px}
+span.logo_ebar,span.logo_evoyage,span.logo_ebillet{text-indent:-99999px}
+
+
+.paragr .bloctype1{float:left;position:relative;width:320px;margin:20px;margin-left:0}
+.paragr .bloctype1 h3{position:absolute;top:-16px;left:10px;padding:5px;display:inline;font-family:'museo_sans900';font-weight:normal;font-size:18px;color:#000;background-color:#fff;border:1px solid #cccccc}
+.paragr .bloctype1 .wrap{width:321px;background-color:#f3f3f3;border-top:1px solid #666666}
+.paragr .bloctype1 .wrap .content{padding-top:10px}
+.paragr .bloctype1 .wrap .content img{display:block;float:left;width:151px;height:76px;margin-right:10px}
+.paragr .bloctype1 .wrap .content .vign{float:left;width:300px;margin-left:10px;margin-right:10px;padding-top:10px;padding-bottom:10px;min-height:50px}
+.paragr .bloctype1 .wrap .content .vign h4{font-family:'museo_sans900';font-weight:normal;font-size:14px;line-height:20px;color:#000;display:inline}
+.paragr .bloctype1 .wrap .content .vign span{float:left;margin-right:6px;width:11px;height:12px;background:url(http://static.lequipe.fr/v6/img/sprite.png?20130415) no-repeat scroll 0 -1px transparent;margin-top:6px}
+
+.paragr .bloctype1#liens_connex .video span {width:11px !important;height:12px !important; position:relative !important; left:0 !important; float:right !important}
+
+
+
+.encadre .bloctype1 .wrap .content .vign span{height:14px;background-position:0 2px  }
+.encadre .bloctype1 .wrap .content .contentvign a{/*font-size:11px;color:#222;*/}
+#liens_connex .vign a.video{float:left}
+
+
+.newsnews h1{font-size:30px}
+.news.newsnews .col-665  .chapeau{font-size:15px!important;line-height:18px}
+.newsnews div.paragr, .newsnews p.paragr{font-size:14px!important;line-height:20px!important;margin-bottom:20px!important}
+.news.newsnews .col-665  .encadre{font-size:22px!important;line-height:24px;margin :0 16px 16px 16px;font-style:italic}
+.newsnews h2.sous-titre{font-size:16px;margin:8px 0}
+.newsnews div.paragr.exergue{font-size:14px;padding:16px}
+.wrap .content .vign a{line-height:12px}
+
+.paragr .bloctype1 .wrap .content .borright{border-bottom:1px solid #fff}
+.paragr .bloctype1 .wrap .content .more{display:none;margin-left:10px;padding:10px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:700;text-transform:uppercase}
+.paragr .bloctype1 .wrap .content .more span{display:inline-block;width:14px;height:15px;background:url(http://static.lequipe.fr/v6/img/sprite.png?20130415) no-repeat scroll -25px 0 transparent}
+
+
+
+#news_infog{margin:4px 0 14px 0;text-align:center}
+#news_infog>img{max-width:960px}
+
+
+.viadeo_widget_recommend{width:104px;float:left}
+#partage .gplus{width:72px}
+
+
+.article.court #partage .viadeo_widget_recommend{width:100px;float:left}
+/*
+#col-gauche .partage_bis #partage .twitter,.article.court #col-gauche  #partage .twitter{width:100px}
+.partage_bis #partage .fbk,.article.court #partage .fbk{width:124px}
+.article.court #partage a.mail-envoyer{display:none}
+
+.article.court #partage .gplus{width:64px}
+*/
+.alire{border-left:1px solid #ccc;;border-right:1px solid #ccc}
+.infos_plus{padding:8px 4px}
+.infos_plus a{text-align:left;;width:160px;font-size:12px;margin:5px 0}
+.infos_plus a:hover{color:#d60000}
+.infos_plus a.video{background-position:-988px -510px}
+.image_plus{}
+.infos_plus img{width:180px}
+.infos_plus ul li,.image_plus a{background:url(http://static.lequipe.fr/v6/img/sprite.png?20130415) no-repeat scroll -991px -682px transparent;color:#666666;display:block;margin:5px 0;padding-left:12px}
+.image_plus a{padding:0px 0 0px 12px;color:#000}
+.image_plus{margin-bottom:4px}
+.infos_plus hr{margin:6px 0}
+.infos_plus ul li.video{background-position:-990px -731px!important}
+
+.infos_plus ul li.video a div{margin:4px 0 4px -12px;position:relative}
+.infos_plus ul li.video a div span{position:absolute;background:url(http://static.lequipe.fr/v6/img/sprite.png?20130415) no-repeat scroll -772px -55px transparent;display:block;height:34px;position:absolute;right:20px;top:15px;width:39px;z-index:30}
+
+#container .audio{margin:24px}
+#container .audio h2{font-size:12px!important;background:url(http://static.lequipe.fr/v6/img/sprite.png?20130415) no-repeat -987px -540px;padding-left:18px}
+
+
+#container{padding:0 20px 20px 20px!important;width:960px!important}
+#col-gauche{width:640px!important}
+#col-gauche.fullwidth,#col-gauche.fullwidth .col-665{width:100%!important;overflow:visible}
+
+.ensavoir .expert{background:#f5f5f5}
+.ensavoir.expert h3{color:#000!important}
+.infos_expert{text-align:center}
+.infos_expert strong{padding:8px;display:block}
+.infos_expert img{border:2px solid #999}
+.infos_expert div{font-size:11px;text-align:left;line-height:14px}
+.infos_expert a{font-size:11px;background:url(http://static.lequipe.fr/v6/img/sprite.png?20130415) no-repeat scroll -991px -488px transparent;display:block;height:12px;margin:5px 0;padding-left:15px;width:160px;display:block;overflow:hidden;text-align:left}
+
+b.edito_auteur, .edito_auteur span {font-weight:bold;float:left;padding:4px 10px 2px 0}
+b.twtrr, .edito_auteur span.twtrr{float:left;padding:0}
+
+
+#mb_container {margin:30px 0 20px 0; float:left}
+
+/*   PEL   */
+
+.son_avis h2.sous-titre{font-family:'museo_sans900';font-weight:normal;font-size:17px}
+.l_quotes{float:right;width:188px;background-color:#7c226c;font-size:11px;color:#fff}
+.betwin{background-color:#000}
+.betwin .tt_sajoo{background-position:0 -41px!important}
+.betwin .bloc_quote{border-bottom:1px solid #333}
+.bwin{background-color:#000}
+.bwin .tt_sajoo{background-position:0 -44px!important}
+.bwin .bloc_quote{border-bottom:1px solid #333}
+.tt_sajoo{background:url(http://static.lequipe.fr/v6/img/sprite_sajoo.png) no-repeat 0 -71px;width:120px;height:30px}
+.bloc_quote{border-bottom:1px solid #541649;margin-bottom:2px}
+
+.bq_1{float:left;background:url(http://static.lequipe.fr/v6/img/sprite_sajoo.png) no-repeat -4px -31px;width:14px;height:14px;margin-left:4px}
+.l_quotes .sup{background-position:-4px -4px!important}
+.bq_2{float:left;width:130px}
+.bq_3{float:left;width:40px;text-align:center}
+.top_q .bq_1{background:url(http://static.lequipe.fr/v6/img/sprite_sajoo.png) no-repeat -4px -4px}
+.top_q .bq_2{font-weight:bold}
+.top_q .bq_3{font-weight:bold;color:#FFFF00}
+.prono_quote{background-color:#541649;margin:2px;text-align:right;font-size:10px;margin:4px;padding:2px 4px }
+.date_sajoo{float:right;margin:-34px 4px 4px;font-size:10px;color:#FEC500}
+
+.ensavoir.COTE .content{padding:8px 0 0 0!important;background:#000!important;border-color:#000!important}
+.ensavoir.COUP h3{color:#d60000!important}
+.ensavoir.COUP .content{padding:8px 2px 2px 2px!important}
+#ensavoirplus.PEL h4{display:none}
+
+.ensavoir.COTE .header{background:none!important;border:none!important}
+
+.article .cont_plans{margin:0!important}
+.article .cont_plans a{font-size:12px!important;line-height:14px!important}
+.article .spt_plans{margin-left:6px!important}
+.articlee #partenaires{background-position:4px -96px!important;margin-bottom:-6px!important}
+.liste_plans{width:298px;border-width:0 1px 1px 1px;border-color:#541649 #ccc #ccc #ccc;border-style:solid;background:#f5f5f5;padding-bottom:20px}
+#tt_plans{background:url(http://static.lequipe.fr/v6/sprite_PEL.png) no-repeat #f5f5f5;width:300px;height:40px;margin-bottom:-12px}
+.spt_plans{margin:12px 0 -4px 25px;font-size:14px;font-weight:bold;color:#b09c4c}
+.cont_plans{margin:4px 20px;font-weight:bold;padding:4px 5px 2px 4px;font-size:12px;color:#333}
+.cont_plans a{font-size:16px;color:#541649;display:block;margin:8px 0 4px 0;line-height:16px;background:url(http://static.lequipe.fr/v6/img/pic_dore.png) no-repeat left center;padding-left:16px;padding:0 4px 4px 16px}
+.rep_bc{border:1px solid #B09C4C;background-color:#FAFAFA;padding:8px;margin-top:-4px;color:#333;display:none;margin-bottom:2px;font-size:11px;font-weight:normal}
+.boncoup_c{cursor:pointer}
+#bloc_bas_breve a.previous,#bloc_bas_breve a.next{color:#858585;font-size:10px;background-image:url(/v6/img/sprite_v65.png);background-repeat:no-repeat;float:left;width:194px;display:inline-block;height:28px}
+#bloc_bas_breve{background-color:#fff;border-top:1px dotted #ccc;margin:12px 0 12px 0;padding:8px 0 8px 0;border-bottom:1px solid #ccc;clear:both;height:45px}
+#bloc_bas_breve a.previous{background-position:-348px -287px;padding-left:30px}
+#bloc_bas_breve a.previous:hover{background-position:-348px -257px}
+#bloc_bas_breve a.next{background-position:244px -1388px;padding-right:30px;text-align:right}
+#bloc_bas_breve a.next:hover{background-position:244px -1358px}
+#bloc_bas_breve a.previous b,#bloc_bas_breve a.next b{color:#000;font-size:11px;font-weight:normal;line-height:19px;overflow:hidden;white-space:nowrap}
+.newsnews #bloc_bas_breve a.previous b,.newsnews  #bloc_bas_breve a.next b{font-size:14px}
+.newsnews #bloc_bas_breve{border:none;margin-top:10px;margin-bottom:0px;float:left;width:100%}
+.newsnews #bloc_bas_breve a.previous,.newsnews #bloc_bas_breve a.next{color:#b3b3b3;font-size:11px;float:left;width:240px;display:inline-block;height:30px}
+.newsnews #bloc_bas_breve a.next{float:right!important}
+.newsnews #bloc_bas_breve strong{color:black;font-size:13px;font-weight:700;line-height:19px}
+.newsnews span.encadre{text-align:center}
+
+.w460{width:460px}.h263{height:263px}
+#la_boutique{border:1px solid #000;width:298px;overflow:hidden;max-height:230px}
+/* #la_boutique span{background:#ccc;padding:3px 8px;color:#ebebeb;text-transform:uppercase;font-family:'interstateregular';font-size:20px;vertical-align:middle;display:block} */
+#la_boutique span{background:#000;padding-left:20px;color:#fff;text-transform:uppercase;font-family:'museo_sans900';font-weight:normal;font-size:21px;vertical-align:middle;height:36px;line-height:36px;display:block;width:290px;overflow:hidden;letter-spacing:-1px}
+#inshop-sidebar{padding-top:5px}
+#la_boutique iframe{margin-left:-1px}
+#rebonds{background:none repeat scroll 0 0 #f5f5f5;border-left:1px solid #A7A7A7;border-radius:5px 0 0 0;border-top:1px solid #A7A7A7;bottom:0px;box-shadow:2px 0 12px #666;display:none;font-size:12px;position:fixed;right:0;width:444px;z-index:1000001}
+
+
+#rebonds .title{color:#fff;font-family:'interstateregular'!important;font-size:26px;background:#000;border-radius:5px 0 0 0;padding:6px 8px 6px 8px}
+#rebonds .title a{background:url(/v6/img/sprite_v65.png) -249px -1285px;width:119px;height:19px;display:inline-block;vertical-align:middle;margin-top:-2px}
+#rebonds .title a span{display:none}
+#rebonds .close{float:right;;margin:6px}
+#rebonds .close:hover{background-position:-327px -472px}
+#rebonds ul{line-height:20px;margin:18px}
+#rebonds ul a{background:url(/v6/img/sprite_v65.png) no-repeat -366px -495px;padding-left:10px}
+#rebonds ul a:hover{text-decoration:underline}
+#rebonds ul li.video{margin:14px 0}
+#rebonds ul li.video .flash_kplayer{margin:4px 0}
+#rebonds ul li.video a{background-position:-360px -564px!important;padding-left:18px}
+
+.chronique_50{background:url(http://static.lequipe.fr/v6/img/chroniqueurs/BK_50-B.jpg) fixed top center no-repeat;}
+.chronique_58{background:url(http://static.lequipe.fr/v6/img/chroniqueurs/BK_58-B.jpg) fixed top center no-repeat;}
+.chronique_62{background:url(http://netstorage.lequipe.fr/Equipefr/braqueuses_2013V3.jpg) fixed top center no-repeat #000;}
+.nocoldroite #col-gauche{width:990px!important}
+.nocoldroite #col-gauche .col-665{width:980px!important}
+.nocoldroite #col-gauche .caption img{width:990px!important;height:499px!important}
+.nocoldroite #col-gauche .#visuel .caption{width:970px!important}
+.nocoldroite .new_bloc_bas_breve { width:960px}
+.nocoldroite .new_bloc_bas_breve .NewBettingEdito { margin:20px auto 0 auto}
+.nocoldroite .newsnews #ligatus { width:660px; margin:0 auto}
+
+div.news h1,div.news h1 strong{color:#000;display:block;font-family:'museo_sans900'!important;font-weight:normal;font-size:40px;letter-spacing:;margin:5px 0 10px;width:100%;float:left;position:relative;z-index:10}
+div.newsnews.news  h1,#visuel.newsnews .article h1{margin-top:18px }
+
+._v65 div.newsnews.news h1,._v65 #visuel.newsnews .article h{float:none!important;margin:0!important}
+._v65 #col-gauche{padding-top:5px!important}
+
+
+.JO.article ._v65 #col-gauche{padding-top: 19px!important;}
+.bigleaderpix .caption{bottom:0;color:#FFF;font-size:14px;line-height:18px;padding:4px 8px;position:absolute;z-index:20;left:0;background:none repeat scroll 0 0 rgba(0,0,0,0.7);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#AA000000,endColorstr=#AA000000)}
+
+.newsnews #visuel .chapeau{font-size:15px;float:left;width:100%;font-weight:700;line-height:18px;margin:5px 0 15px;position:relative;z-index:10}
+#visuel .chapeau{font-size:14px;float:left;width:100%;font-weight:700;line-height:18px;margin:5px 0 15px;position:relative;z-index:10}
+#visuel .caption{padding:10px;width:645px}
+._v65 #visuel .caption{padding:10px;width:620px!important}
+#visuel .caption p{font-size:14px}
+#tools{float:right;height:24px;width:120px}
+#tools a{background:url(/v6/img/sprite_v65.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;float:left;height:24px;text-indent:-99999px}
+#tools a.aplus{background-position:-204px -873px;width:30px}
+#tools a.aplus:hover{background-position:-204px -897px}
+#tools a.amoins{background-position:-234px -873px;width:29px}
+#tools a.amoins:hover{background-position:-234px -897px}
+#tools a.print{background-position:-265px -872px;width:32px}
+#tools a.print:hover{background-position:-265px -896px}
+#tools a.rsstool{background-position:-297px -871px;width:27px}
+#tools a.rsstool:hover{background-position:-297px -895px}
+div.news #partage{border-bottom:1px solid #CCC;border-top:1px solid #CCC;margin:10px 0;padding:5px 0 10px}
+#partage a.mail-envoyer{width:100px;background:url(http://static.lequipe.fr/v6/img/sprite.png?20130415) no-repeat scroll -846px -109px transparent;color:#333;display:block;float:right;height:17px;margin-top:2px;padding-right:30px}
+
+#Directs a.mail-envoyer,#Base a.mail-envoyer,#Live a.mail-envoyer{display:none}
+#partage a.mail-envoyer span{display:block;padding-top:3px}
+#partage a.comment{color:#333;display:inline-block;padding-top:3px;vertical-align:top}
+#partage a.comment img{margin-right:5px}
+#partage a.comment span{background:url(http://static.lequipe.fr/v6/img/sprite.png?20130415) repeat scroll -874px -69px transparent;display:block;float:left;height:12px;margin-right:2px;width:14px}
+div.news #partageons{border-bottom:1px solid #CCC;border-top:1px solid #CCC;margin:10px 0;height:38px}
+.gauche,#oreilettes .doubleoreilette .direct,#oreilettes .doubleoreilette .video,.bx-wrapper,#slidertoolbar,#sousmenu li,.slider-jour ul li,#chrono .footer a.tout,#col-droite .jeux .content li img,#partageons .twitter,#partageons .gplus,#partageons .fb-root,#partageons .fbk{float:left}
+#partageons .twitter,#partageons .gplus,#partageons .fbk{padding:9px 0;margin-right:14px}
+#partageons .gplus{margin-right:8px;width:67px }
+#partageons a.mail-envoyer{width:34px;height:20px;background:url(/v6/img/sprite_v65.png) no-repeat scroll -286px -824px transparent;color:#333;display:block;float:left;margin-top:11px;margin-right:12px}
+#partageons a.mail-envoyer span{display:block;padding-top:3px}
+#partageons a.comment{float:left;color:#333;width:auto;padding:13px;border-left:1px solid #ccc;border-right:1px solid #ccc}
+#partageons a.comment img{margin-right:5px}
+#partageons a.comment span{background:url(/v6/img/sprite_v65.png) repeat scroll -287px -846px transparent;display:block;float:left;height:12px;margin-right:2px;width:14px}
+#partageons .cc_part{opacity:0;moz-opacity:0;-webkit-opacity:0;filter:alpha(opacity=0)} 
+.Hippisme #partageons .cc_part{opacity:1;moz-opacity:1;-webkit-opacity:1;filter:alpha(opacity=1)} 
+#partageons #tools{float:right;height:24px;width:120px;padding-top:6px} 
+ 
+#partageons #article-fb-btn{background:none;position:inherit;height:39px;width:139px} 
+#partageons #article-fb-connect{position:inherit;margin-top:0;height:39px;width:139px;float:left;cursor:pointer}
+#partageons .partag-right{float:right;height:39px} 
+.viadeo_widget_recommend{width:104px;float:left}
+
+
+.col-460{float:left;width:460px}
+.col-460 p,.col-665 p,.news div.paragr{line-height:18px}
+.col-665{float:left;width:640px}
+.news p.exergue,.news div.paragr.exergue{border-top-style:solid;border-top-width:2px;display:block;float:left;color :#333;font-family:'museo_sans900';font-weight:normal;font-size:13px;line-height:20px;margin:0 20px 20px 0;background:#fafafa;padding:8px;text-align:justify}
+.news  .exergue i{font-family:'museo_sans900';font-weight:normal}
+.news  .exergue b,.news  .exergue strong{font-family:'museo_sans900';font-weight:normal;color :#000!important}
+.news  .exergue b i,.news  .exergue  i b,.news  .exergue strong i,.news  .exergue  i strong{font-family:'museo_sans900'!important;font-weight:normal}
+.col-665 p.sous-titre,.col-460 p.sous-titre{font-size:14px;font-weight:700;margin:10px 0}
+.col-665 .encadre,.col-460 .encadre{background-color:#fff;font-family:'museo_sans900';font-weight:normal;font-size:17px;padding:8px}
+.col-665 span.encadre,.col-460 span.encadre{display:block;float:right;margin:0 8px 8px 8px;width:240px}
+.col-190{float:right;margin-bottom:20px;width:190px}
+
+.news .col-665 p,.news .col-665 div.paragr{margin-bottom:0} 
+.news .col-460 p,.news .col-460 div.paragr{margin-bottom:12px}
+.news .col-665 p,.news .col-665 h6{font-size:14px;font-weight:normal}
+.news .col-460 p,.news .col-460 h6{font-size:12px;font-weight:normal}
+
+.news .col-665 p{font-size:12px}
+
+.tag_JEUX_VIDEO .news .col-665 p,.tag_JEUX_VIDEO .news .col-665 div.paragr{font-size:14px!important} 
+
+div.home-pauvre .date,div.news .date{color:#999;font-size:11px;font-weight:700}
+div.news .type,div.news h2{font-weight:700;margin:5px 0;font-size:14px;width:100%}
+#ensavoirplus .ensavoir.services table span.match,#commentaires ul#coms li .content span.auteur a{color:#D60000;font-weight:700}
+#ensavoirplus .ensavoir.services{float:left;border:1px solid #DDD;width:188px;overflow:hidden}
+.ticketnet_event .st_savoir_plus,.evoyages_event .st_savoir_plus{background:#FFF;border-bottom:2px solid #D60000;color:#d60000;float:left;width:98%;font-weight:700;padding:5px 0 4px 1%;margin:0 1%;display:none}
+
+.infog div.news h2{padding: 6px 8px 4px 8px;background:#00ADAB;color:#fff!important;text-transform: uppercase;float: left;font-family: 'interstateregular';font-size: 18px;color: #fff;
+display: block;float: left;margin-left: 1px;font-weight: normal!important;width:auto!important}
+.infog div.news .date{float:right;margin-top:12px}
+.evoyages_event .libelleManif{padding:5% 0 0 0}
+.evoyages_event .liens_a div.dateHoraire{width:100%}
+.bx-window,.bx-wrapper{width:380px!important}
+#col-230 .tweetos a{color:#333;font-size:11px}
+#col-230 .tweetos span.auteur{margin-top:-4px}
+#col-230 .tweetos span.auteur a{color:#000}
+#col-230 .block.tweet li:first-child +li{background-color:#f0f0f0}
+#toolbar li img{float:left;margin:4px 8px 8px 8px}
+#toolbar li p{padding:6px;text-align:left}
+#quotiToastToolbar p{padding:12px 6px!important}
+#toolbar li a{display:block;height:48px}
+#sas_650,#sas_630,#sas_651{text-align:center}
+#sas_650 table,#sas_630 table,#sas_651 table{margin:0 auto}
+div#sas_650{}
+#sas_630{}
+#sas_650 iframe,#sas_630  iframe,#sas_651  iframe{margin:0 auto}
+.pb_630{width:100%}
+.ficheteam .gmap #myMap{width:638px;height:200px;position :relative} 
+.bigleadervid .caption{margin-top:-2px;position:relative!important}
+.bigleadervid object,.colead object{background:#000}
+.colead .caption p{padding-top:4px}
+.statut_groupe{padding:3px 4px 0px 4px!important;margin:4px 0 0 10px!important}
+.infos-groupe-img{position:absolute;width:138px;height:120px;top:0;right:0;background-image:url(http://static.lequipe.fr/v6/img/infos_groupe_b.png)}
+.infos-groupe-img.TRF_PARLE{background-position:-120px 0}
+.infos-groupe-img.TRF_EQUIPE{background-position:-240px 0}
+.infos-groupe-img.TRF_OFFICIEL{background-position:-360px -5px}
+
+.infos-groupe{width:120px;height:40px;background-image:url(http://static.lequipe.fr/v6/img/infos_groupe_b.png);float:right;margin:-16px 0 -24px 0}
+.infos-groupe.TRF_PARLE{background-position:-120px -170px}
+.infos-groupe.TRF_EQUIPE{background-position:-240px  -170px}
+.infos-groupe.TRF_OFFICIEL{background-position:-360px  -170px}
+
+
+.Football.article._v65 #visuel h1 span:first-child,.infog.Football div.news h2,.Football.article .sectionh2 span:first-child{background:#84AD09}
+.Tennis.article._v65 #visuel h1 span:first-child,.infog.Tennis div.news h2,.Tennis.article .sectionh2 span:first-child{background:#F0851D}
+.Rugby.article._v65 #visuel h1 span:first-child,.infog.Rugby div.news h2,.Rugby.article .sectionh2 span:first-child{background:#007113}
+.Formule1.article._v65 #visuel h1 span:first-child,.Auto-moto.article._v65 #visuel h1 span:first-child,.infog.Formule1 div.news h2,.infog.Auto-moto div.news h2,.Formule1.article .sectionh2 span:first-child,.Auto-moto.article .sectionh2 span:first-child{background:#597984}
+.Basket.article._v65 #visuel h1 span:first-child,.Hand.article._v65 #visuel h1 span:first-child,.Handball.article._v65 #visuel h1 span:first-child,.Volley.article._v65 #visuel h1 span:first-child,.infog.Basket div.news h2,.Basket.article .sectionh2 span:first-child,.Hand.article .sectionh2 span:first-child,.Handball.article .sectionh2 span:first-child,.Volley.article .sectionh2 span:first-child{background:#183DAC}
+.Golf.article._v65 #visuel h1 span:first-child,.infog.Golf div.news h2,.Golf.article .sectionh2 span:first-child{background:#711F3D}
+.Cyclisme.article._v65 #visuel h1 span:first-child,.infog.Cyclisme div.news h2,.Cyclisme.article .sectionh2 span:first-child{background:#C4A248}
+.Aussi.article._v65 #article h1 span:first-child,.Athletisme.article._v65 #visuel h1 span:first-child,.Natation.article._v65 #visuel h1 span:first-child,.Voile.article._v65 #visuel h1 span:first-child,.Ski-Glace.article._v65 #visuel h1 span:first-child,.infog.Atheltisme div.news h2,.infog.Natation div.news h2,.Athletisme.article .sectionh2 span:first-child,.Aussi.article .sectionh2 span:first-child,.Natation.article .sectionh2 span:first-child,.Voile.article .sectionh2 span:first-child,.Ski-Glace.article .sectionh2 span:first-child {background:#03ACAC}
+.Jo.article._v65 #article h1 span:first-child,.Jo.article._v65 #visuel h1 span:first-child,.JO.article._v65 #visuel h1 span:first-child,.JO.article._v65 #visuel h1 span:first-child,.infog.JO div.news h2,.infog.JO div.news h2{background:#0099FF}
+.Jo.article._v65 #visuel h1 span:first-child,.JO.article #visuel h1 span:first-child,.Jo.article .sectionh2 span:first-child,.JO.article .sectionh2 span:first-child{background:#0099FF}
+.Hippisme.article._v65 #visuel h1 span:first-child,.Hippisme.article .sectionh2 span:first-child{background:#028F60} 
+
+
+.JO span.lespor-t,.Jo span.lespor-t{background:#0099FF}
+
+
+.article #visuel h1 span{font-size:14px;font-weight:700;margin-bottom:5px;display:block}
+.Football.article #visuel h1 span{color:#84AD09}
+.Tennis.article #visuel h1 span{color:#F0851D}
+.Rugby.article #visuel h1 span{color:#007113}
+.Formule1.article #visuel h1 span,.Auto-moto.article #visuel h1 span{color:#597984}
+.Basket.article #visuel h1 span,.Hand.article #visuel h1 span,.Handball.article #visuel h1 span,.Volley.article #visuel h1 span{color:#183DAC}
+.Golf.article #visuel h1 span{color:#711F3D}
+.Cyclisme.article #visuel h1 span{color:#C4A248}
+.Aussi.article #article h1 span,.Athletisme.article #visuel h1 span,.Natation.article #visuel h1 span,.Voile.article #visuel h1 span{color:#03ACAC}
+.Jo.article #visuel h1 span,.JO.article #visuel h1 span{color:}
+.Hippisme.article #visuel h1 span{color:#028F60}
+
+
+#col-230{float:left;margin:0 0 0 15px;width:230px}#col-420{float:left;margin:0;width:420px}
+#bigLeader{border-bottom:1px solid #CCC;float:left;margin:2px 0 15px;padding-bottom:10px;width:640px}
+#bigLeader .video,#bigLeader .photo{float:left;width:100%}
+#bigLeader h2 a{color:#000;display:block;font-family:'CabinBold';font-size:28px;font-weight:700;margin:8px 0 12px;text-transform:uppercase}
+.bigleaderpix{margin-bottom:10px;position:relative;cursor:pointer}
+.article .news .bigleaderpix{cursor:default!important;float:left;margin-bottom:0;margin-right:20px}
+
+._v65 #visuel h1 span{padding:6px 8px 4px 8px;color:#fff!important;text-transform:uppercase;float:left;font-family:'interstateregular';font-size:18px;color:#fff;display:block;float:left;background:#000;margin-left:1px;font-weight:normal!important;margin-right:0}
+._v65 #visuel h1 span:first-child{margin-left:0}
+._v65 #visuel h1 strong{display:block;float:left;width:100%;margin:20px 0  12px!important}
+._v65 #visuel .chapeau{line-height:18px}
+._v65 .news .date{float:right;margin-top:8px;line-height:17px}
+.newsnews{padding-top:18px}
+
+.strip-rec-link-source .ob_source span{font-family:'interstateregular'!important}
+.VR_2 .ob_video{position:absolute!important;top:40px!important;left:111px!important;height:25px!important;width:25px!important;display:block!important;background:transparent!important;cursor:pointer!important}
+.VR_2 .ob_video{background:url(/v6/img/sprite_v65.png) -13px -461px!important}
+.VR_2 .ob_video:hover{background-position:-39px -461px!important}
+.ob_container_recs>a:hover .strip-rec-link-title{color:#2A323D}
+.ob_container_recs>a:hover .VR_2 .ob_video{background-position:-39px -461px!important}
+.AR_2 .strip-rec-link-title,.VR_2 .strip-rec-link-title{font-size:14px!important}
+
+
+.article .news .bigleaderpix{}
+.article .news .col-665{margin-top:20px}
+.partage_bis{display:none}
+
+.newsnews #visuel .chapeau { margin-bottom:10px}
+.article .news .bigleaderpix { margin-top:9px}
+.surtitre-black { background:#000!important; margin-left:1px!important}
+
+.article .sectionh2 span:first-child {margin-left: 0}
+.article .sectionh2 span {color: #C4A248}
+.article .sectionh2 span {padding: 6px 8px 4px 8px;color: #fff!important;text-transform: uppercase;float: left;font-family: 'interstateregular';font-size: 18px;color: #fff;display: block;float: left;background: #000;;font-weight: normal!important;margin: 0 0 5px 1px}
+
+.premiummedia-IMG span{ width: 40%;}
+.infog-premium strong{ width: 100%; text-align:left; display: inline-block; }
+.premiummedias{margin: 15px 0 !important; float: left; }
+.premiummedia-PDF strong{ width: 48%; text-align:left; display: inline-block; margin-right: 2% !important;}
+.infog-premium strong b{ background: #EEE; font-family: 'interstateregular'; padding: 2px 5px 3px 5px; text-transform: uppercase; font-weight: 100; text-align:left; font-size: 21px !important;}
+.infog-premium .premiummedia-IMG{ margin : 10px 0 20px 0 }
+.infog-premium .premiummedia-IMG strong,.infog-premium .premiummedia-CHI strong,.infog-premium .premiummedia-KEW strong,.infog-premium .premiummedia-PDF strong:first-child{ border-bottom: 4px solid #EEE; margin-bottom: 5px; width: 100%}
+.infog-premium .premiummedia-IMG span,.infog-premium .premiummedia-KEW span{ text-align: center;font-style: italic; font-size: 11px}
+
+
+
+ .linkpremium { background: #FFF; color: #000; margin: 10px 0 -12px;}
+.linkpremium strong { border: 1px solid #000}
+p .reIns{    margin : 10px 0; float: left;}
+.linkpremium a { float: left; padding: 10px 0; color: #000; font-family: 'interstateregular'; text-transform: uppercase; font-weight: 100; text-align:left; font-size: 22px !important; line-height: 25px;}
+.iconPremium{ float: left; width: 25px; padding: 0; height:25px; margin:8px 10px}
+.iconPDF{ background: url(http://www.lequipe.fr//v6/img/premium/PDF.png)}
+
+body.JO #new_bloc_bas_breve .bloctype1#liens_connex h3 {background:#0099FF}
+body.JO #new_bloc_bas_breve .bloctype1#liens_connex  .wrap { border-top:2px solid #0099FF; background:#E1F3FF}
+body.JO #new_bloc_bas_breve .bloctype1 .wrap .content .separator {border-right:1px solid #0099FF}
+
+#commentaires > span { font-size:0; text-indent:-10000px}
+
+
+.sondage.Newv65 .sous-titre { }
+.sondage.Newv65 { border:2px solid #ddd !important; border-radius:2px; -webkit-border-radius: 4px 4px 4px 4px; padding:0 0 5% 0!important}
+.sondage.Newv65 .sous-titre {font-size:18px; line-height:20px;background:#E9EEF4; margin-top:0!important; padding:5%!important; width:90%!important}
+
+.sondage.Newv65 .valide_sondage {cursor:pointer;  background-color:#E9EEF4;color: #555;border: 1px solid #ddd;padding: 8px 12px;-webkit-border-radius: 4px 4px 4px 4px;border-radius: 4px 4px 4px 4px;-webkit-transition: border-color 180ms linear;-moz-transition: border-color 180ms linear;-ms-transition: border-color 180ms linear;-o-transition: border-color 180ms linear;transition: border-color 180ms linear;-webkit-transition: color 180ms linear;-moz-transition: color 180ms linear;-ms-transition: color 180ms linear;-o-transition: color 180ms linear;transition: color 180ms linear; margin: 5% auto 0 40%; font-weight:bold}
+
+
+.sondage.Newv65 .valide_sondage:hover { color:#333; border-color: #c6c6c6; background:#fff}
+.sondage.Newv65 .libel img { border-radius:2px; -webkit-border-radius: 4px 4px 4px 4px}
+.sondage.Newv65 .rep { border-width:2px !important; padding-left:2.5%; width:97.5%}
+.sondage.Newv65 .rep input {  position:relative; top:0; left:0;}
+.sondage.Newv65 .paragr { margin-bottom:0 !important}
+.sondage.Newv65 .rep .libel { width:214px !important}
+.sondage.Newv65 .libel table td { vertical-align:middle; min-width:16px}
+.sondage.Newv65 { margin-bottom:30px}
+.sondage.Newv65 .msg_sondage {padding: 5%;text-align: center;font-size: 11px;color: #d60000;background: #fff;display: inline;float: left;width: 75%;margin: 5% 7.5% 0 7.5%;-webkit-border-radius: 4px 4px 4px 4px;border-radius: 4px 4px 4px 4px; display:none}
+.sondage.Newv65 .margeimg {margin-top:15px !important}

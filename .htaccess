@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^$                                                 		http://www.lequipe.fr [R=301,L]
+RewriteRule ^/Football/Actualites/Un-match-pas-comme-les-autres$    index.html [QSA,L]
+

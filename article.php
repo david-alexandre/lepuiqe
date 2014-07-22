@@ -9,9 +9,9 @@
             <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/v6/css/ie7.css?20140707-AAAA" /><![endif]-->
             <!--[if IE 8]><link rel="stylesheet" type="text/css" href="/v6/css/ie8.css?20140707-AAAA" /><![endif]-->
             <!--[if IE]><script  type="text/javascript" src="/v6/js/html5shiv.js"></script><![endif]-->
-            <link href="match_files/premium.css" rel="stylesheet" type="text/css" />
-            <link href="match_files/articles_v65.css" rel="stylesheet" type="text/css" />
-            <link href="match_files/print.css" rel="stylesheet" type="text/css" media="print" />
+            <link href="http://www.lepuiqe.fr/match_files/premium.css" rel="stylesheet" type="text/css" />
+            <link href="http://www.lepuiqe.fr/match_files/articles_v65.css" rel="stylesheet" type="text/css" />
+            <link href="http://www.lepuiqe.fr/match_files/print.css" rel="stylesheet" type="text/css" media="print" />
     </head>
     <body data-twttr-rendered="true" ac="" an="" tag_principal="406" class="article long  Football tag_FOOTBALL tag_COUPE_DU_MONDE tag_SAISON_2014 tag_DEMI-FINALES tag_BRESIL_-_ALLEMAGNE tag_ALLEMAGNE tag_CHAPUIS_CEDRIC _v65 partage65" sport="Football" pgph="4" tag="CM_BREVE" tags="48:Football:SPORT:http://www.lequipe.fr/Football/|406:Coupe du Monde:FOOTBALL_COMPETITION:http://www.lequipe.fr/Football/Coupe-du-monde/|35047:Saison 2014:FOOTBALL_SAISON:http://www.lequipe.fr/Football/Coupe-du-monde/Saison-2014/|57544:Demi-finales:FOOTBALL_NIVEAU:http://www.lequipe.fr/Football/Coupe-du-monde/Saison-2014/Demi-finales/|57545:BRESIL - ALLEMAGNE:FOOTBALL_MATCH:http://www.lequipe.fr/Football/Coupe-du-monde/Saison-2014/Demi-finales/Bresil-allemagne/|428:ALLEMAGNE:FOOTBALL_EQUIPE:http://www.lequipe.fr/Football/Allemagne/|52430:CHAPUIS Cédric:JOURNALISTE:http://www.lequipe.fr/General/Chapuis-cedric/|">
         <header>
@@ -21,20 +21,20 @@
                         <div class="oreillettes or150 Football" type="OREILLETTE_V65" rub="Football" sport="36" home="home-" data-vr-contentbox="">
                             <a href="http://www.lequipe.fr/info-continue/transfert2014/27976" double="0" date="" onglet="1" target="_blank">
                                 <div class="les-blocs"><span class="lespor-t">MERCATO</span></div>
-                                <div class="sta-tut">DIRECT</div>        <img src="match_files/5294a.jpg" alt="" height="90" width="150"></a>
+                                <div class="sta-tut">DIRECT</div>        <img src="http://www.lepuiqe.fr/match_files/5294a.jpg" alt="" height="90" width="150"></a>
                         </div><div class="oreillettes or150 Football" type="OREILLETTE_V65" rub="Football" sport="36" home="home-" data-vr-contentbox="">
                             <a href="http://www.lequipe.fr/Football/Actualites/Le-programme-de-l-intersaison/472563" double="0" date="" onglet="0">
                                 <div class="les-blocs"><span class="lespor-t">L1</span><span class="letitr-e">REPRISE</span></div>
-                                <img src="match_files/51da3.jpg" alt="" height="90" width="150"></a>
+                                <img src="http://www.lepuiqe.fr/match_files/51da3.jpg" alt="" height="90" width="150"></a>
                         </div><div class="oreillettes or150 Football" type="OREILLETTE_V65" rub="Football" sport="36" home="home-" data-vr-contentbox="">
                             <a href="http://www.lequipe.fr/Football/Coupe-du-monde/Saison-2014/" double="0" date="" onglet="1" target="_blank">
                                 <div class="les-blocs"><span class="lespor-t">MONDIAL</span></div>
-                                <img src="match_files/5889f.jpg" alt="" height="90" width="150"></a>
+                                <img src="http://www.lepuiqe.fr/match_files/5889f.jpg" alt="" height="90" width="150"></a>
                         </div>
 
                     </div>
                     <div style="width: 300px; height: auto;">
-                        <a href="http://www.lequipe.fr/"><img src="match_files/lepuiqe.jpg" style="width: 300px;" /></a>
+                        <a href="http://www.lequipe.fr/"><img src="http://www.lepuiqe.fr/match_files/lepuiqe.jpg" style="width: 300px;" /></a>
                     </div>    
                 </div>
             </div>
@@ -73,7 +73,7 @@
                                         </div>
 
                                         <div class="bigleaderlien"></div>
-                                        <img itemprop="image" src="match_files/victoire-geeks.jpg" alt="Les Geeks ont infligé une raclée historique à Merci Alfred. (L'Equipe)" height="406" width="660">
+                                        <img itemprop="image" src="http://www.lepuiqe.fr/match_files/victoire-geeks.jpg" alt="Les Geeks ont infligé une raclée historique à Merci Alfred. (L'Equipe)" height="406" width="660">
                                     </div> 
                                     <!-- Fin -->
                             </div><!--/visuel-->
@@ -110,11 +110,11 @@
 
 
                                     <div class="clear"></div>
-                                    <img itemprop="image" src="match_files/geeks.jpg" />
+                                    <img itemprop="image" src="http://www.lepuiqe.fr/match_files/geeks.jpg" />
                                     <br /><br />
                                     <h2 class="sous-titre">Les Geeks : cette équipe le méritait tellement</h2>
                                     <div class="bigleaderpix small enkad" typemedia="IMAGE">
-                                        <img itemprop="image" src="match_files/anne.jpg" />
+                                        <img itemprop="image" src="http://www.lepuiqe.fr/match_files/anne.jpg" />
                                     </div>
 
                                     <div class="paragr paragraf2 paragimage" num="2">Le
@@ -133,7 +133,7 @@
                                     <div class="clear"></div>
                                     <h2 class="sous-titre">Guillaume Declair, c'est fini</h2>
                                     <div class="bigleaderpix small enkad" typemedia="IMAGE">
-                                        <img itemprop="image" src="match_files/guillaume-declair.jpg">
+                                        <img itemprop="image" src="http://www.lepuiqe.fr/match_files/guillaume-declair.jpg">
                                     </div>
 
                                     <div class="paragr paragraf3 paragimage" num="3">
@@ -147,14 +147,14 @@
                                         (0-3) et maintenant celle face aux Geeks, Guillaume, qui avait mené Merci Alfred sur les sommets parisiens 
                                         en 2013, avait déclaré qu'il revenait au président de MLP de statuer sur
                                         son sort. Bruno Vuillier n'en demandait pas tant !<br /><br />
-                                        <img itemprop="image" src="match_files/bruno.jpg">
+                                        <img itemprop="image" src="http://www.lepuiqe.fr/match_files/bruno.jpg">
                                     </div>  
 
                                     <div class="clear"></div>
                                     <h2 class="sous-titre">La déception chez Merci Alfred</h2>
                                     <div class="bigleaderpix small enkad" typemedia="IMAGE">
-                                        <img itemprop="image" src="match_files/celine.jpg" />
-                                        <img itemprop="image" src="match_files/filles.jpg" />
+                                        <img itemprop="image" src="http://www.lepuiqe.fr/match_files/celine.jpg" />
+                                        <img itemprop="image" src="http://www.lepuiqe.fr/match_files/filles.jpg" />
                                     </div>
 
                                     <div class="paragr paragraf3 paragimage" num="3">
@@ -168,8 +168,8 @@
 
                                 <div class="linkfiche" num="99" style="" datematch="08/07/2014" datebreve=""><br /><br />
                                     <div class="zoneload">
-                                        <link href="match_files/lives.css" rel="stylesheet" type="text/css" />
-                                        <link href="match_files/breve_auto.css" rel="stylesheet" type="text/css" />
+                                        <link href="http://www.lepuiqe.fr/match_files/lives.css" rel="stylesheet" type="text/css" />
+                                        <link href="http://www.lepuiqe.fr/match_files/breve_auto.css" rel="stylesheet" type="text/css" />
                                         <div style="height: 255px;" class="PlcNight no-commented" id="Placar">
                                             <div classe="mitemps">
 
@@ -187,7 +187,7 @@
                                                     <div class="score sc2" id="scoExt">7</div>
 
                                                     <div class="PlEq" id="EqDom">
-                                                        <div class="logo"><img src="match_files/100-alt_002.png"></div>
+                                                        <div class="logo"><img src="http://www.lepuiqe.fr/match_files/100-alt_002.png"></div>
                                                         <div class="equipe opa_75">
                                                             <a>MERCI ALFRED</a>
                                                         </div>
@@ -197,7 +197,7 @@
 
                                                     </div>
                                                     <div class="PlEq" id="EqExt">
-                                                        <div class="logo"><img src="match_files/100-alt.png"></div>
+                                                        <div class="logo"><img src="http://www.lepuiqe.fr/match_files/100-alt.png"></div>
 
                                                         <div class="equipe opa_75">
                                                             <a>GEEKS</a>
@@ -209,7 +209,7 @@
                                                 </div>
                                                 <div style="height: 251px;" stadia="JO" class="event">
                                                     <div class="grid spritefoot"></div>
-                                                    <div id="imgstade"><img src="match_files/a.jpg"></div>
+                                                    <div id="imgstade"><img src="http://www.lepuiqe.fr/match_files/a.jpg"></div>
 
                                                 </div>
 
@@ -527,14 +527,14 @@
                         <div class="item large jeu clearfix">
                             <a href="http://www.lequipemagazine.fr/jeux/quiz/quiz/le-quiz-du-week-end/571/" target="_blank">
                                 <span></span>
-                                <img style="display: inline;" class="lazy" src="match_files/d530c.jpg" data-original="http://medias.lequipe.fr/img-eqmag-jpg/bottas-valtteri-fin/1500000000442373/0:334,2048:1106-260-130-75/d530c.jpg" alt="Le quiz du week-end" height="130" width="260">
+                                <img style="display: inline;" class="lazy" src="http://www.lepuiqe.fr/match_files/d530c.jpg" data-original="http://medias.lequipe.fr/img-eqmag-jpg/bottas-valtteri-fin/1500000000442373/0:334,2048:1106-260-130-75/d530c.jpg" alt="Le quiz du week-end" height="130" width="260">
                                     <p>Le quiz du week-end</p>
                             </a>
                         </div>   
                         <div class="item video clearfix">
                             <a href="http://www.lequipemagazine.fr/tout-images/portrait/La-drole-de-machine-de-soumare/483451/" target="_blank">
                                 <span></span>
-                                <img style="display: block;" class="lazy" src="match_files/90bb0.jpg" data-original="http://medias.lequipe.fr/img-eqmag-jpg/soumare-myriam/1500000000441396/140:29,1741:1363-120-60-75/90bb0.jpg" alt="La drôle de machine de Soumaré" height="60" width="120">
+                                <img style="display: block;" class="lazy" src="http://www.lepuiqe.fr/match_files/90bb0.jpg" data-original="http://medias.lequipe.fr/img-eqmag-jpg/soumare-myriam/1500000000441396/140:29,1741:1363-120-60-75/90bb0.jpg" alt="La drôle de machine de Soumaré" height="60" width="120">
                                     <p>La drôle de machine de Soumaré</p>
 
                             </a>
@@ -542,14 +542,14 @@
                         <div class="item photo clearfix">
                             <a href="http://www.lequipemagazine.fr/avant-hier/diaporama/Les-generations-maudites-du-foot/1434/" target="_blank">
                                 <span></span>
-                                <img style="display: block;" class="lazy" src="match_files/3a04d.jpg" data-original="http://medias.lequipe.fr/img-eqmag-jpg/d-ption-de-paul-gascoigne-apr-l-mination-de-l-angleterre-face-ipe-de-la-rfa-lors-de-la/1500000000242786/433:20,2048:1366-120-60-75/3a04d.jpg" alt="Les générations maudites" height="60" width="120">
+                                <img style="display: block;" class="lazy" src="http://www.lepuiqe.fr/match_files/3a04d.jpg" data-original="http://medias.lequipe.fr/img-eqmag-jpg/d-ption-de-paul-gascoigne-apr-l-mination-de-l-angleterre-face-ipe-de-la-rfa-lors-de-la/1500000000242786/433:20,2048:1366-120-60-75/3a04d.jpg" alt="Les générations maudites" height="60" width="120">
                                     <p>Les générations maudites</p>
                             </a>
                         </div>
                         <div class="item photo clearfix">
                             <a href="http://www.lequipemagazine.fr/avant-hier/diaporama/Les-meilleurs-buteurs-en-coupe-du-monde/2206/" target="_blank">
                                 <span></span>
-                                <img style="display: block;" class="lazy" src="match_files/fd5ca.jpg" data-original="http://medias.lequipe.fr/img-eqmag-jpg/ronaldo/1500000000438840/290:211,1662:1355-120-60-75/fd5ca.jpg" alt="Les meilleurs buteurs en Coupe du monde" height="60" width="120">
+                                <img style="display: block;" class="lazy" src="http://www.lepuiqe.fr/match_files/fd5ca.jpg" data-original="http://medias.lequipe.fr/img-eqmag-jpg/ronaldo/1500000000438840/290:211,1662:1355-120-60-75/fd5ca.jpg" alt="Les meilleurs buteurs en Coupe du monde" height="60" width="120">
                                     <p>Les meilleurs buteurs en Coupe du monde</p>
                             </a>
                         </div>

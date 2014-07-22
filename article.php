@@ -126,7 +126,7 @@
                                         qu'il fallait muscler notre jeu et jouer collectivement pour venir à 
                                         bout de cette équipe de Merci Alfred. Aujourd'hui tout le monde était 
                                         prêt. A la fin du match, l'équipe des Alfred ont pu rentrer tôt chez eux, peut être aurons-nous nos 
-                                        BAT à l'heure.» déclairait Jocelyn Kerbourch' avec un léger ton moqueur.<br />
+                                        BAT à l'heure.» déclarait Jocelyn Kerbourch' avec un léger ton moqueur.<br />
                                     </div>
 
 
